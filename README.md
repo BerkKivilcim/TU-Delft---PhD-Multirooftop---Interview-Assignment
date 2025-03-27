@@ -33,7 +33,7 @@ pip install open3d
 pip install numpy
 pip install matplotlib
 pip install scipy
-
+```
 ---
 
 ### Step 4: Start Jupyter Notebook
@@ -42,7 +42,7 @@ Once the required libraries are installed, launch Jupyter Notebook by entering t
 
 ```bash
 jupyter notebook
-
+```
 ---
 
 ### Step 5: A localhost web page will open in your browser. Download the **Berk_KIVILCIM_TU_Delft_LoD2_to_LoD1_Assignment.ipynb** file and locate the file in the directory where you downloaded it. 
