@@ -73,6 +73,6 @@ Now you can execute the notebook by clicking the **"Run"** button in the toolbar
 
 ⚠️ It is important to run the cells **in order**, as some later cells depend on variables or computations from earlier ones.
 
-<img src="readme_images/run.png" width="1000"/>
+<img src="readme_images/Run.png" width="1000"/>
 
 ---
