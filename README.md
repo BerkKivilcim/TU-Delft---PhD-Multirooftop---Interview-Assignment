@@ -20,4 +20,6 @@ Download the appropriate version of **Anaconda** for your operating system from 
 
 After the installation is complete, open the **Anaconda Prompt** application.
 
+<img src="readme_images/anaconda_prompt.png" width="500"/>
+
 ---
