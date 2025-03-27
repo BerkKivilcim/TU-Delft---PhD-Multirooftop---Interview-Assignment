@@ -78,6 +78,6 @@ Now you can execute the notebook by clicking the **"Run"** button in the toolbar
 Alternatively, you can click the button shown below image to automatically **restart the kernel** and **run all cells** in sequential order.  
 This will ensure that the notebook executes cleanly from top to bottom.
 
-<img src="readme_images/Run.png" width="1000"/>
+<img src="readme_images/run_sequence.png" width="1000"/>
 
 ---
