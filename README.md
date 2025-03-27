@@ -63,4 +63,4 @@ Then, in the notebook, go to the second cell and update the variable **`folder_p
 
 **Optional:**  If you wish to save the generated LoD1 models in `.obj` format at the end of the process, the folder path where these files will be saved can also be defined in this section.
 
-<img src="readme_images/define_folder_path.png" width="1000"/>
+<img src="readme_images/save_folder_path.png" width="1000"/>
