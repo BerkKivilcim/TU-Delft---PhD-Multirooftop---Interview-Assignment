@@ -18,8 +18,18 @@ Download the appropriate version of **Anaconda** for your operating system from 
 
 ### Step 2: Launch Anaconda Prompt
 
-After the installation is complete, open the **Anaconda Prompt** application.
+After the installation is complete, start the **Anaconda Prompt** application.
 
-<img src="readme_images/anaconda_prompt.png" width="500"/>
+<img src="readme_images/anaconda_prompt.png" width="350"/>
 
 ---
+
+### Step 3: Install Required Libraries
+
+Run the following commands in the Anaconda Prompt to install the necessary Python libraries:
+
+```bash
+pip install open3d
+pip install numpy
+pip install matplotlib
+pip install scipy
