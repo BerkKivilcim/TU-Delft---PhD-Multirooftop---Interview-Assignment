@@ -53,7 +53,7 @@ A localhost web page will open in your browser. Download the **Berk_KIVILCIM_TU_
 
 ---
 
-### Step 6: Defining the folder path where .obj files are stored
+### Step 6: Defining the Folder Path Where .obj Files Are Stored
 
 Store your `.obj` files inside a dedicated folder on your computer.
 
@@ -64,3 +64,13 @@ Then, in the notebook, go to the second cell and update the variable **`folder_p
 **Optional:**  If you wish to save the generated LoD1 models in `.obj` format at the end of the process, the folder path where these files will be saved can also be defined in this section.
 
 <img src="readme_images/save_folder_path.png" width="1000"/>
+
+---
+
+### Step 7: Exeute All Cells in Order
+
+Now you can execute the notebook by clicking the **"Run"** button in the toolbar, starting from the **first cell** and proceeding **in sequential order**.
+
+⚠️ It is important to run the cells **in order**, as some later cells depend on variables or computations from earlier ones.
+
+---
