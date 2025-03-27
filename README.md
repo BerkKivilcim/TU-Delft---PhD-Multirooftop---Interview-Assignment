@@ -6,12 +6,18 @@ This repository contains a Jupyter Notebook implementation for converting LoD2 b
 
 ## Instructions: How to Run the Notebook
 
-Follow these steps to properly set up and run the notebook on your local machine:
+Follow these steps to properly set up and run the code on your local machine:
 
 ### Step 1: Download Anaconda
 
-Download the appropriate version of **Anaconda** for your operating system from the official website (free):
+Download the appropriate version of **Anaconda** for your operating system from the official website:
 
 [https://www.anaconda.com/download/success](https://www.anaconda.com/download/success)
+
+---
+
+### Step 2: Launch Anaconda Prompt
+
+After the installation is complete, open the **Anaconda Prompt** application.
 
 ---
