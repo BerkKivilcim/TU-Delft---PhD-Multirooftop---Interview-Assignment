@@ -52,3 +52,11 @@ A localhost web page will open in your browser. Download the **Berk_KIVILCIM_TU_
 <img src="readme_images/locate_the_file.png" width="1000"/>
 
 ---
+
+### Step 6: Defining the folder path where .obj files are stored
+
+Store your `.obj` files inside a dedicated folder on your computer.
+
+Then, in the notebook, go to the second cell and update the variable **`folder_path`** by assigning it the path to the folder where your `.obj` files are stored. For example:
+
+<img src="readme_images/define_folder_path.png" width="1000"/>
