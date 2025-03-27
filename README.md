@@ -95,3 +95,9 @@ Once you close the visualization window, the notebook will proceed to the next c
 A figure that gives an overview about how the algorithm works presented below here.
 
 <img src="readme_images/delft_assignment_algorithm_explanation.png" width=" 850"/>
+
+---
+
+### A Brief Video That Shows How to Execute the Code:
+
+[Click here to watch the demo video](https://youtu.be/V1H0bZc6ArI)
