@@ -87,3 +87,11 @@ This will ensure that the notebook executes cleanly from top to bottom.
 After a successful execution of the code, a **visualization window** will appear, allowing you to interactively inspect the generated model. 
 
 Once you close the visualization window, the notebook will proceed to the next cell and automatically save the generated LoD1 models, if an output path has been properly defined.
+
+---
+
+### How Algorithm Works: 
+
+A figure that gives an overview about how the algorithm works presented below here.
+
+<img src="readme_images/delft_assignment_algorithm_explanation.png" width=" 850"/>
