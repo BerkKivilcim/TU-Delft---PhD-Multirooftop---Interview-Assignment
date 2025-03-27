@@ -49,4 +49,6 @@ jupyter notebook
 
 A localhost web page will open in your browser. Download the **Berk_KIVILCIM_TU_Delft_LoD2_to_LoD1_Assignment.ipynb** file and locate the file in the directory where you downloaded it. 
 
+<img src="readme_images/locate_the_file.png" width="700"/>
+
 ---
