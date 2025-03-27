@@ -45,4 +45,8 @@ jupyter notebook
 ```
 ---
 
-### Step 5: A localhost web page will open in your browser. Download the **Berk_KIVILCIM_TU_Delft_LoD2_to_LoD1_Assignment.ipynb** file and locate the file in the directory where you downloaded it. 
+### Step 5: Open the Notebook File
+
+A localhost web page will open in your browser. Download the **Berk_KIVILCIM_TU_Delft_LoD2_to_LoD1_Assignment.ipynb** file and locate the file in the directory where you downloaded it. 
+
+---
