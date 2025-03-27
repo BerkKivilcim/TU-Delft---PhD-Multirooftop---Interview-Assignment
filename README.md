@@ -98,6 +98,6 @@ A figure that gives an overview about how the algorithm works presented below he
 
 ---
 
-### A Brief Video That Shows How to Execute the Code:
+### A Brief Video Demonstration That Shows How to Execute the Code:
 
 [Click here to watch the demo video](https://youtu.be/V1H0bZc6ArI)
