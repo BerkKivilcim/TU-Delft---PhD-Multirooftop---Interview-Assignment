@@ -94,7 +94,7 @@ Once you close the visualization window, the notebook will proceed to the next c
 
 A figure that gives an overview about how the algorithm works presented below here.
 
-<img src="readme_images/workflow.png" width=" 850"/>
+<img src="readme_images/delft_assignment_algorithm_explanation.jpg" width=" 850"/>
 
 ---
 
